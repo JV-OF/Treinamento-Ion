@@ -19,6 +19,11 @@
                 <td>
                     @item.Descricao
                 </td>
+                <td>
+                    <a asp-asp-controller="Tarefa" asp-action="Details" asp-route-id="@item.Id">Detalhes</a>
+                </td>
             </tr>
         }
     </table>
+
+
