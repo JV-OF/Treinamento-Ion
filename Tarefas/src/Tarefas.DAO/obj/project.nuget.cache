@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MkuAOo+byv+OFgqdgjTVOES/eiNDZOkJ6It22GSCCr7+WJDDO4MOuyxNAKlT31/lRaMXdKJsHR0B11aiD89ZvA==",
+  "success": true,
+  "projectFilePath": "/home/decom/Área de Trabalho/Treinamento-Tarde/Treinamento-Ion/Tarefas/src/Tarefas.DAO/Tarefas.DAO.csproj",
+  "expectedPackageFiles": [
+    "/home/decom/.nuget/packages/dapper/2.0.78/dapper.2.0.78.nupkg.sha512",
+    "/home/decom/.nuget/packages/stub.system.data.sqlite.core.netstandard/1.0.113.2/stub.system.data.sqlite.core.netstandard.1.0.113.2.nupkg.sha512",
+    "/home/decom/.nuget/packages/system.data.sqlite.core/1.0.113.7/system.data.sqlite.core.1.0.113.7.nupkg.sha512"
+  ],
+  "logs": []
+}
