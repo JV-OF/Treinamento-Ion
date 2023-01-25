@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1LVPNpYZ2nXekJ3M2gug2NbMMT9H9INrYRYnUcd5CynwVF6EdbvnBRFBQMDSL0+plKX5Fxpb/HPvxjW26XnAIw==",
+  "dgSpecHash": "HfBFw/wBIB4rr48sMfn19hO8AAMEMVGNVt4B/qf1f4SuFHxEm4OWcjeRazD5yV5I0P8W6h3i7L0G+rr10o5HZg==",
   "success": true,
-  "projectFilePath": "/home/decom/Área de Trabalho/Treinamento-Tarde/Treinamento-Ion/Tarefas/src/Tarefas.dTO/Tarefas.dTO.csproj",
+  "projectFilePath": "/home/decom/Área de Trabalho/Treinamento-Tarde/Treinamento-Ion/Tarefas/src/Tarefas.DTO/Tarefas.DTO.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

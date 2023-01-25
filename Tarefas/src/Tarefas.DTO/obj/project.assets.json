@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/decom/Área de Trabalho/Treinamento-Tarde/Treinamento-Ion/Tarefas/src/Tarefas.dTO/Tarefas.dTO.csproj",
-      "projectName": "Tarefas.dTO",
-      "projectPath": "/home/decom/Área de Trabalho/Treinamento-Tarde/Treinamento-Ion/Tarefas/src/Tarefas.dTO/Tarefas.dTO.csproj",
+      "projectUniqueName": "/home/decom/Área de Trabalho/Treinamento-Tarde/Treinamento-Ion/Tarefas/src/Tarefas.DTO/Tarefas.DTO.csproj",
+      "projectName": "Tarefas.DTO",
+      "projectPath": "/home/decom/Área de Trabalho/Treinamento-Tarde/Treinamento-Ion/Tarefas/src/Tarefas.DTO/Tarefas.DTO.csproj",
       "packagesPath": "/home/decom/.nuget/packages/",
-      "outputPath": "/home/decom/Área de Trabalho/Treinamento-Tarde/Treinamento-Ion/Tarefas/src/Tarefas.dTO/obj/",
+      "outputPath": "/home/decom/Área de Trabalho/Treinamento-Tarde/Treinamento-Ion/Tarefas/src/Tarefas.DTO/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/decom/.nuget/NuGet/NuGet.Config"

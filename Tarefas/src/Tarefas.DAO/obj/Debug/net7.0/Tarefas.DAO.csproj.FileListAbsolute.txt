@@ -1,0 +1,5 @@
+/home/decom/Área de Trabalho/Treinamento-Tarde/Treinamento-Ion/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.csproj.AssemblyReference.cache
+/home/decom/Área de Trabalho/Treinamento-Tarde/Treinamento-Ion/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.GeneratedMSBuildEditorConfig.editorconfig
+/home/decom/Área de Trabalho/Treinamento-Tarde/Treinamento-Ion/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.AssemblyInfoInputs.cache
+/home/decom/Área de Trabalho/Treinamento-Tarde/Treinamento-Ion/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.AssemblyInfo.cs
+/home/decom/Área de Trabalho/Treinamento-Tarde/Treinamento-Ion/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.csproj.CoreCompileInputs.cache
